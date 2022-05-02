@@ -1,2 +1,3 @@
 # hello-world
-first GitHub attempt
+this is my first GitHub attempt
+and my name is Alison
